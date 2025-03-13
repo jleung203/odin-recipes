@@ -7,8 +7,8 @@ body {
 }
 
 button {
-    color: hsl(40, 97%, 64%);
-    background-color: rgb(0, 48, 73);
+    color: rgb(255, 255, 255);
+    background-color: hsl(232, 93.8%, 6.3%);
     font-size: 16px;
     font-weight: bold;
     text-align: left;
